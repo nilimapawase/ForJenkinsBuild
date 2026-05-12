@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ForJenkinsBuild
-{
+{ 
     internal class Program
     {
         void Add()
